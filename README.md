@@ -1,8 +1,10 @@
+# React Animated Text Spell
+
 This is a React Component tant display your text letter by letter a given frequency
 
 # Installation
 ```bash
-npm install react-animated-text-spell
+npm install @ddrobecq/react-animated-text-spell
 ```
 
 # Usage
@@ -22,6 +24,9 @@ export default App;
 ```
 
 # Contribute
+## GitHub Repository
+<a href="https://github.com/ddrobecq/animated-text-spell" target="_blank">GitHub</a>
+
 ## Compile
 ```bash
 npm run build
