@@ -1,0 +1,32 @@
+{
+  "name": "@ddrobecq/animated-text-spell",
+  "version": "1.0.0",
+  "private": false,
+  "peerDependencies": {
+    "react": "18.3.1",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "spelled text",
+    "animated text"
+  ],
+  "author": "Drobs",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "9.9.0",
+    "eslint": "9.9.0",
+    "eslint-plugin-react": "7.35.0",
+    "globals": "15.9.0",
+    "typescript": "^5.5.4",
+    "typescript-eslint": "8.1.0"
+  },
+  "description": "React component for displaying text letter by letter",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test",
+    "build": "npx tsc"
+  }
+}
